@@ -1,0 +1,55 @@
+.heading {
+    
+    color: #E9E8E8;
+    
+    
+    
+   
+    
+    
+}
+
+.navbar {
+    
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #20262E;;
+    
+
+}
+
+.navbar a {
+    display: inline-block;
+    color: #E9E8E8;
+    font-family: 'Roboto Mono', monospace;
+    padding: 10px 12px;
+    text-decoration: none;
+  }
+
+p {
+    margin-bottom: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2.5rem;
+    margin-top: 0;
+}
+
+h1 {
+    margin: 3rem 0 0;
+    font-size: 7rem;
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #400E32;
+}
+
+img {
+    border-radius: 25px;
+}
+
+
+
